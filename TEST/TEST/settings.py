@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     'posts.apps.PostsConfig',
     'money.apps.MoneyConfig',
+    'register.apps.RegisterConfig',
 ]
 
 MIDDLEWARE = [
